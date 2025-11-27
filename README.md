@@ -106,10 +106,10 @@ Jupyter Notebook
 📁 Repository Structure
 pizza-sales-analysis/
 │
-├── pizza_sales.ipynb 
-├── pizza_sales.py 
-├── pizza_sales.csv
-├── README.md
+├── pizza_sales.ipynb                                                                                                                                                                                               
+├── pizza_sales.py                                                                                                                                                                                                  
+├── pizza_sales.csv                                                                                                                                                                                                 
+├── README.md                                                                                                                                                                                                       
 └── Business Requirements Document.docx
 
 ▶️ How to Run the Project
