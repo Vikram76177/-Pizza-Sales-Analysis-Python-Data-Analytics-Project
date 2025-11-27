@@ -104,8 +104,8 @@ Plotly
 Jupyter Notebook
 
 📁 Repository Structure
-pizza-sales-analysis/
-│
+pizza-sales-analysis/                                                                                                                                                                                               
+│                                                                                                                                                                                                                   
 ├── pizza_sales.ipynb                                                                                                                                                                                               
 ├── pizza_sales.py                                                                                                                                                                                                  
 ├── pizza_sales.csv                                                                                                                                                                                                 
